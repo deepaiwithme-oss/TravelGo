@@ -1,0 +1,6 @@
+{
+  "name": "TravelGo",
+  "description": "TravelGo is a premium, high-fidelity bus ticket booking app offering instant confirmation, secure payments, active balance wallet, and 24/7 client support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
